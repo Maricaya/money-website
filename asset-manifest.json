@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-website/static/css/main.32b2ca63.chunk.css",
+    "main.js": "/money-website/static/js/main.9a34b2c3.chunk.js",
+    "main.js.map": "/money-website/static/js/main.9a34b2c3.chunk.js.map",
+    "runtime-main.js": "/money-website/static/js/runtime-main.7c431645.js",
+    "runtime-main.js.map": "/money-website/static/js/runtime-main.7c431645.js.map",
+    "static/js/2.20fd8e5d.chunk.js": "/money-website/static/js/2.20fd8e5d.chunk.js",
+    "static/js/2.20fd8e5d.chunk.js.map": "/money-website/static/js/2.20fd8e5d.chunk.js.map",
+    "index.html": "/money-website/index.html",
+    "precache-manifest.9fe385832ff200900fcb74ff64ef7820.js": "/money-website/precache-manifest.9fe385832ff200900fcb74ff64ef7820.js",
+    "service-worker.js": "/money-website/service-worker.js",
+    "static/css/main.32b2ca63.chunk.css.map": "/money-website/static/css/main.32b2ca63.chunk.css.map",
+    "static/js/2.20fd8e5d.chunk.js.LICENSE.txt": "/money-website/static/js/2.20fd8e5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c431645.js",
+    "static/js/2.20fd8e5d.chunk.js",
+    "static/css/main.32b2ca63.chunk.css",
+    "static/js/main.9a34b2c3.chunk.js"
+  ]
+}
